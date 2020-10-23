@@ -6,15 +6,40 @@
   <link href="https://xueyudavid.github.io/atom.xml" rel="self"/>
   
   <link href="https://xueyudavid.github.io/"/>
-  <updated>2020-10-23T09:53:01.351Z</updated>
+  <updated>2020-10-23T17:00:25.306Z</updated>
   <id>https://xueyudavid.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Xueyu David</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo博客本地搭建教程</title>
+    <link href="https://xueyudavid.github.io/2020/10/24/hexo-bo-ke-ben-di-da-jian-jiao-cheng/"/>
+    <id>https://xueyudavid.github.io/2020/10/24/hexo-bo-ke-ben-di-da-jian-jiao-cheng/</id>
+    <published>2020-10-23T16:30:49.000Z</published>
+    <updated>2020-10-23T17:00:25.306Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="博客" scheme="https://xueyudavid.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="blog" scheme="https://xueyudavid.github.io/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一篇博客文章</title>
