@@ -6,7 +6,7 @@
   <link href="https://xueyudavid.github.io/atom.xml" rel="self"/>
   
   <link href="https://xueyudavid.github.io/"/>
-  <updated>2020-10-29T17:01:02.951Z</updated>
+  <updated>2020-10-31T15:50:33.755Z</updated>
   <id>https://xueyudavid.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux就该这么学1</title>
+    <link href="https://xueyudavid.github.io/2020/10/30/linux-jiu-gai-zhe-me-xue-1/"/>
+    <id>https://xueyudavid.github.io/2020/10/30/linux-jiu-gai-zhe-me-xue-1/</id>
+    <published>2020-10-29T17:32:53.000Z</published>
+    <updated>2020-10-31T15:50:33.755Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;第一章-部署虚拟环境安装Linux系统&quot;&gt;&lt;a href=&quot;#第一章-部署虚拟环境安装Linux系统&quot; class=&quot;headerlink&quot; title=&quot;第一章 部署虚拟环境安装Linux系统&quot;&gt;&lt;/a&gt;第一章 部署虚拟环境安装Linux系统&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="阅读笔记" scheme="https://xueyudavid.github.io/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Linux" scheme="https://xueyudavid.github.io/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>阅读《Linux就该这么学》</title>
